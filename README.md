@@ -18,4 +18,4 @@
 
 ## 模型训练
 训练情况如下图：
-
+![image](https://github.com/Tian14267/TextClassify_FourSystems/blob/master/images/666.png)
