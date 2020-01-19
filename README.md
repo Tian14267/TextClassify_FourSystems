@@ -17,7 +17,8 @@
     cnews.test.txt: 测试集(10000条)
 
 ## Word2vec
-
+本文这里公开了自己使用的`word2vec`模型，也可以自己根据自己的数据集制作词向量模型。
+链接：https://pan.baidu.com/s/1dYRIPVH1N0y0gNOCw8rAuQ  提取码：g889
 
 ## 模型训练
 训练情况如下图：
