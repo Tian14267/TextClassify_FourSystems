@@ -1,6 +1,6 @@
 # TextClassify_FourSystems
 ## 说明
-本文主要是实现`NLP`文本分类任务，目前该系统为四系统融合模型，其中包括基于字向量Char的CNN模型和RCNN模型以及基于词向量word2vec的CNN模型和RCNN模型。目前的融合则采用权值平均法进行融合。
+本文主要是实现`NLP`文本分类任务，目前该系统为四系统融合模型，其中包括基于字向量char的CNN模型和RCNN模型以及基于词向量word2vec的CNN模型和RCNN模型。目前的融合则采用权值平均法进行融合。
 
 ## 环境
     python3
@@ -28,3 +28,6 @@
 下面为模型测试效果图：
 
 ![image](https://github.com/Tian14267/TextClassify_FourSystems/blob/master/images/777.png)
+
+## 比较
+本文的四系统较单一的CNN系统或者其他系统，其效果提升大概2个点以上（具体看应用场景）。相应的，其效率较其他单一系统略低。毕竟效率和效果之间总是要平衡的。
